@@ -151,6 +151,7 @@ Aşağıdakileri konsolda gösterim (console.log) işlemi gerçekleştirerek, yu
 console.log(fenomenler[0].profile);
 
 //(2) Dizideki üçüncü fenomenin (2. dizin) takipçi (followers) sayısı
+console.log(fenomenler[2].followers);
 
 /* Görev 2 (otomatik kontrol testi yapılmayacak):
 (işlev yazmanıza gerek yok)
